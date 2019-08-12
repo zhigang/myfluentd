@@ -1,6 +1,6 @@
 # Fluentd for kubernetes
 
-Learn more at: <https://docs.fluentd.org/>
+Learn more at: [Fluentd document](https://docs.fluentd.org)
 
 ## Install Plugins
 
