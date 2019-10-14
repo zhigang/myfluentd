@@ -14,4 +14,5 @@ Learn more at: [Fluentd document](https://docs.fluentd.org)
 
 ## TAG
 
-* `v2.6.0`, `latest`
+* `v2.7.0`, `latest`
+* `v2.6.0`
